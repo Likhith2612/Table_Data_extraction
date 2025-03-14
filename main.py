@@ -7,7 +7,7 @@ import time
 from openpyxl.styles import Font, Border, Side
 
 # Configure Gemini API
-API_KEY = "AIzaSyCGakY_-40t749xeqYqbc6T7ErqJkhUQbE"
+API_KEY = "make you own api key"
 genai.configure(api_key=API_KEY)
 MODEL = 'gemini-1.5-pro-latest'
 
